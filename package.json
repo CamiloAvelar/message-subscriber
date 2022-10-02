@@ -34,7 +34,7 @@
   "author": "Camilo Avelar (camiloavelar@fastmail.com)",
   "license": "MIT",
   "dependencies": {
-    "@aws-sdk/client-sqs": "^3.165.0",
+    "@aws-sdk/client-sqs": "^3.168.0",
     "async": "^3.2.4"
   },
   "devDependencies": {
